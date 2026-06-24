@@ -1,5 +1,9 @@
 # metronome-sdk
 
+[![crates.io](https://img.shields.io/crates/v/metronome-sdk.svg)](https://crates.io/crates/metronome-sdk)
+[![docs.rs](https://img.shields.io/docsrs/metronome-sdk)](https://docs.rs/metronome-sdk)
+[![License: MIT](https://img.shields.io/crates/l/metronome-sdk.svg)](LICENSE)
+
 An unofficial Rust client for the [Metronome](https://metronome.com) billing API,
 generated from Metronome's published OpenAPI spec with
 [progenitor](https://github.com/oxidecomputer/progenitor).
