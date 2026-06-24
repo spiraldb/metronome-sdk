@@ -2,6 +2,11 @@
 name = "metronome-sdk"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "An unofficial, generated Rust client for the Metronome billing API."
+readme = "README.md"
+keywords = ["metronome", "billing", "api", "client", "sdk"]
+categories = ["api-bindings"]
 
 # src/lib.rs is generated from spec/metronome-openapi.json via progenitor.
 # Regenerate with: ./scripts/generate.sh  (do not hand-edit src/lib.rs).
