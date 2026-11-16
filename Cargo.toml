@@ -5,7 +5,6 @@ edition = "2024"
 license = "MIT"
 description = "An unofficial, generated Rust client for the Metronome billing API."
 readme = "README.md"
-homepage = "https://github.com/spiraldb/metronome-sdk"
 repository = "https://github.com/spiraldb/metronome-sdk"
 documentation = "https://docs.rs/metronome-sdk"
 keywords = ["metronome", "billing", "api", "client", "sdk"]
